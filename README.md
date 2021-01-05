@@ -6,17 +6,17 @@ Official Website is online! https://europe.naverlabs.com/research/computer-visio
 
 Task:
 
-<a href="url"><img src="paper_images/Figure1.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="paper_images/Figure1.png" align="center" height="360" width="340" ></a>
 <p></p>
 
 Dataset Collection:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" height="200" width="200" ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" height="350" width="300" ></a>
 <p></p>
 
 
 Model Proposed:
 
-<a href="url"><img src="paper_images/Figure6.png" align="center" height="200" width="200" ></a>
+<a href="url"><img src="paper_images/Figure6.png" align="center" height="350" width="300" ></a>
 <p></p>
 
