@@ -6,23 +6,25 @@ Official Website is online! https://europe.naverlabs.com/research/computer-visio
 
 Task:
 
-<a href="url"><img src="paper_images/Figure1.png" align="center" height="450" width="450" ></a>
+<a href="url"><img src="paper_images/Figure1.png" align="center" height="430" width="430" ></a>
 <p></p>
 
 ## Install Environment 
 
-Create Conda environment
+Git clone the project.
+
+Create Conda environment:
 
     $ conda env create -f environment.yml
 
-Activate the environment
+Activate the environment:
 
     $ conda activate scan
 
 
 ## Coco-Text Captioned (CTC) Dataset:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" height="240" width="360"  ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" height="260" width="360"  ></a>
 <p></p>
 
 To Download the CTC (Coco-Text Captioned) images, simply run:
