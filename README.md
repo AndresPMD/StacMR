@@ -5,15 +5,18 @@ Dataset and code based on our WACV 2021 Accepted Paper: https://arxiv.org/abs/20
 Official Website is online! https://europe.naverlabs.com/research/computer-vision/stacmr-scene-text-aware-cross-modal-retrieval/
 
 Task:
+
 <a href="url"><img src="paper_images/Figure1.png" align="center" height="300" width="300" ></a>
 <p></p>
 
 Dataset Collection:
+
 <a href="url"><img src="paper_images/Figure2.png" align="center" height="200" width="200" ></a>
 <p></p>
 
 
 Model Proposed:
+
 <a href="url"><img src="paper_images/Figure6.png" align="center" height="200" width="200" ></a>
 <p></p>
 
