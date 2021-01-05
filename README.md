@@ -20,14 +20,26 @@ Activate the environment
     $ conda activate scan
 
 
-Collected Dataset:
+## Coco-Text Captioned (CTC) Dataset:
 
 <a href="url"><img src="paper_images/Figure2.png" align="center" height="240" width="360"  ></a>
 <p></p>
 
+To Download the CTC (Coco-Text Captioned) images, simply run:
 
-Model Proposed:
+    $ python CTC_img_downlader.py
+ 
+The annotations are provided within this repo in a json format as CTC_anns.json
+
+
+## Trained Model Weights
 
 <a href="url"><img src="paper_images/Figure6.png" align="center" height="350" width="400" ></a>
 <p></p>
+
+Download Weights: 
+
+https://drive.google.com/file/d/1araiEIbbLdiIzPWzGCWRIz4PEQuftgFb/view?usp=sharing
+
+
 
