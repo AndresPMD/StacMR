@@ -6,7 +6,7 @@ Official Website is online! https://europe.naverlabs.com/research/computer-visio
 
 Task:
 
-<a href="url"><img src="paper_images/Figure1.png" align="center" height="360" width="360" ></a>
+<a href="url"><img src="paper_images/Figure1.png" align="center" height="450" width="450" ></a>
 <p></p>
 
 ## Install Environment 
@@ -22,7 +22,7 @@ Activate the environment
 
 Collected Dataset:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" height="200" width="300"  ></a>
 <p></p>
 
 
