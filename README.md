@@ -1,5 +1,5 @@
-# StacMR
-Scene Text Aware Cross Modal Retrieval (StacMR)
+# StacMR (Scene Text Aware Cross Modal Retrieval)
+
 Dataset and code based on our WACV 2021 Accepted Paper: https://arxiv.org/abs/2012.04329
 
 Official Website is online! https://europe.naverlabs.com/research/computer-vision/stacmr-scene-text-aware-cross-modal-retrieval/
@@ -11,7 +11,7 @@ Task:
 
 Dataset Collection:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" height="350" width="350" ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" height="320" width="350" ></a>
 <p></p>
 
 
