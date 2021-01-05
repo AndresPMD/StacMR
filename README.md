@@ -28,6 +28,6 @@ Collected Dataset:
 
 Model Proposed:
 
-<a href="url"><img src="paper_images/Figure6.png" align="center" height="350" width="350" ></a>
+<a href="url"><img src="paper_images/Figure6.png" align="center" height="350" width="400" ></a>
 <p></p>
 
