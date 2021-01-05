@@ -49,6 +49,7 @@ https://drive.google.com/file/d/1araiEIbbLdiIzPWzGCWRIz4PEQuftgFb/view?usp=shari
 
 If you found this code useful, please cite the following paper:
 
+```
 @inproceedings{mafla2020stacmr,
   title={StacMR: Scene-Text Aware Cross-Modal Retrieval},
   author={Mafla, Andr{\'e}s and Rezende, Rafael S and Gomez, Lluis and Larlus, Diane and Karatzas, Dimosthenis},
@@ -56,7 +57,7 @@ If you found this code useful, please cite the following paper:
   pages={2220--2230},
   year={2020}
 }
-
+```
 
 
 ## License
