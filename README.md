@@ -20,9 +20,9 @@ Activate the environment
     $ conda activate scan
 
 
-Dataset Collection:
+Collected Dataset:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" height="320" width="350" ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" ></a>
 <p></p>
 
 
