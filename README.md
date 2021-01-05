@@ -22,7 +22,7 @@ Activate the environment
 
 Collected Dataset:
 
-<a href="url"><img src="paper_images/Figure2.png" align="center" height="200" width="300"  ></a>
+<a href="url"><img src="paper_images/Figure2.png" align="center" height="240" width="360"  ></a>
 <p></p>
 
 
