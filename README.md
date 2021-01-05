@@ -33,6 +33,9 @@ To Download the CTC (Coco-Text Captioned) images, simply run:
  
 The annotations are provided within this repo in a json format as CTC_anns.json
 
+## Coco-Text Captioned (CTC) Dataset Precomputed Features:
+
+TO BE UPDATED
 
 ## Trained Model Weights
 
@@ -43,7 +46,15 @@ Download Weights:
 
 https://drive.google.com/file/d/1araiEIbbLdiIzPWzGCWRIz4PEQuftgFb/view?usp=sharing
 
+Paste the downloaded weights under the current repository directory in a folder named "runs".
 
+## Train the Model
+
+TO BE UPDATED
+
+## Evaluation
+
+TO BE UPDATED
 
 ## Reference
 
