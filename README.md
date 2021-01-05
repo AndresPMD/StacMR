@@ -9,6 +9,17 @@ Task:
 <a href="url"><img src="paper_images/Figure1.png" align="center" height="360" width="360" ></a>
 <p></p>
 
+## Install Environment 
+
+Create Conda environment
+
+    $ conda env create -f environment.yml
+
+Activate the environment
+
+    $ conda activate scan
+
+
 Dataset Collection:
 
 <a href="url"><img src="paper_images/Figure2.png" align="center" height="320" width="350" ></a>
