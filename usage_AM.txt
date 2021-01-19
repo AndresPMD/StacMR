@@ -1,0 +1,10 @@
+# IT SHOULD POINT TO A DIRECTORY WITH FLICKR NAME BUT IT CAN HAVE DATA OF OTHER
+# DATASETS
+
+python train.py --data_path /SSD/Datasets/Flickr30K/data --data_name f30k_precomp --logger_name runs/flickr_VSRN --max_violation --lr_update 10  --max_len 60
+
+# Evaluate performance of models on data: 
+python evaluate_models.py
+
+# To extract visual feats and captions:
+python extract_vsrn_feats.py
