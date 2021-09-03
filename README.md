@@ -65,6 +65,11 @@ Paste the downloaded weights under the current repository directory in a folder 
 
 Extract the image features, OCR tokens with fasttext embedding of the Flickr30K and TextCaps Dataset. Construct a training dataset comprised of Flickr30K, TextCaps and CTC-validation set as described in the paper.
 
+The combination of datasets (Flickr30K, TextCaps and CTC) used to train the model proposed in this paper can be downloaded from:
+
+https://drive.google.com/file/d/1K66sBXZ9XcfDke7pg8DBmA8nBpnp-z9r/view?usp=sharing
+
+
 Run the training script with the following options:
 
     $ python train.py --data_path $PATH_TO_YOUR_TRAINING_DATA$ --data_name f30k_precomp --logger_name runs/flickr_VSRN --max_violation --lr_update 10  --max_len 60
